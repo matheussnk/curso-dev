@@ -1,4 +1,4 @@
-// Operações que retornão TRUE ou FALSE
+// Operações que retornando TRUE ou FALSE
 const tpl =  ``
 var r = "Resutado do Ternario "
 
