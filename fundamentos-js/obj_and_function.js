@@ -5,6 +5,6 @@ const Cliente = function (){}
 console.log( typeof Cliente)
 console.log( typeof new Cliente)
 
-const Produto {}
+class Produto {}
 console.log( typeof Produto)
 console.log( typeof new Produto())
