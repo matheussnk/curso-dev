@@ -10,10 +10,10 @@ teste1(6)
 
 
 function teste2(num) {
-    if (num > 7)
+    if (num > 7) {
         console.log(num)
-    console.log('Final')
-
+        console.log('Final')
+    }
 }
 teste2(8)
 teste2(6)
