@@ -1,10 +1,10 @@
 //Desestruturação em JS recurso ECMA2015
 const people = {
     name:"Matt",
-    age:21,
+    age:22,
     adress:{
         zipcode:"08340-200",
-        street:"Hiran Leite de Abreu"
+        street:"xs"
     }
 }
 const { name , age } = people
